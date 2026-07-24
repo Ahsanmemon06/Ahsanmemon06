@@ -15,24 +15,16 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-
 ---
 
 <div align="center">
 
-## 🧠 Artificial Intelligence Student | Machine Learning Enthusiast
+## 🧠 Artificial Intelligence Student
 
 </div>
 
 
-<img align="right" width="380" src="https://i.pinimg.com/originals/8c/7d/7e/8c7d7e7f9a7c4c6e8e7e6c6f7a7f8a7d.gif">
-
+<img align="right" width="380" src="https://user-images.githubusercontent.com/.../ai.gif">
 
 ## 🚀 About Me
 
@@ -133,6 +125,7 @@ My goal is to become an **AI Engineer / Machine Learning Engineer** and build pr
 
 <div align="center">
 
+
 # 🧠 My AI Journey 🚀
 
 </div>
@@ -176,9 +169,9 @@ Started Artificial Intelligence Degree
 </tr>
 
 </table>
-```
- 
 
+---
+ 
 # 🚀 Featured AI & Machine Learning Projects
 
 <div align="center">
@@ -337,22 +330,39 @@ Machine Learning classification model that predicts internship possibilities bas
 - 🤖 Machine Learning Model Training
 - 📈 Prediction System
 
+### 🛠️ Technologies
+
+`Python` `Pandas` `Scikit-learn` `Jupyter Notebook`
+
+🔗 Repository:
+
+[View Project](https://github.com/Ahsanmemon06/student-internship-prediction.git)
+
+
 ### 🧠 ML Pipeline
 
+➡️ Data Collection
 
-```text
-Data Collection
-      ↓
-Data Cleaning
-      ↓
-EDA
-      ↓
-Feature Engineering
-      ↓
-Model Training
-      ↓
-Prediction
-```
+⬇️
+
+➡️ Data Cleaning
+
+⬇️
+
+➡️ Exploratory Data Analysis (EDA)
+
+⬇️
+
+➡️ Feature Engineering
+
+⬇️
+
+➡️ Model Training
+
+⬇️
+
+➡️ Prediction
+
 ---
 
 # 📊 GitHub Analytics
@@ -425,7 +435,7 @@ Prediction
 </a>
 
 
-<a href="mailto:ahsanali.memon@gmail.com">
+<a href="mailto:ahsanmemon2k06@gmail.com">
 
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 
